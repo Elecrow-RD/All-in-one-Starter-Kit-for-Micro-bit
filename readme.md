@@ -1,6 +1,6 @@
 ### 1, Product picture
 
-![all-in-one_starter_kit_for_microbit_without_board1](F:\wiki\all-in-one starter kit\microbit\git\all-in-one_starter_kit_for_microbit_without_board1.jpg)
+![all-in-one_starter_kit_for_microbit_without_board1](all-in-one_starter_kit_for_microbit_without_board1.jpg)
 
 https://www.elecrow.com/all-in-one-starter-kit-for-micro-bit-common-board-design-rich-modules-and-lessons.html
 
@@ -32,10 +32,11 @@ https://www.elecrow.com/all-in-one-starter-kit-for-micro-bit-common-board-design
 ### 4,Quick Start
 
 #### Go to the Micro:bit website:https://makecode.microbit.org/
-
+![image](https://github.com/user-attachments/assets/252c1e46-f6a5-49fd-a748-4342a892568c)
 
 
 #### Enter the online editor
+![image](https://github.com/user-attachments/assets/5c67f1f8-096f-4401-8a5a-7409f00effaf)
 
 
 
