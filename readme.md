@@ -52,4 +52,4 @@ https://www.elecrow.com/all-in-one-starter-kit-for-micro-bit-common-board-design
 
 ### 6,Pin definition
 
-![Snipaste_2025-06-20_19-11-14](F:\wiki\all-in-one starter kit\microbit\git\Snipaste_2025-06-20_19-11-14.png)
+![Snipaste_2025-06-20_19-11-14](Snipaste_2025-06-20_19-11-14.png)
